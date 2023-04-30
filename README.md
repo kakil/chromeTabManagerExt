@@ -1,7 +1,5 @@
-
-    
-    #Chrome Tab Manager Extension
-    ###Manage Your Chrome Browser Tabs
+#Chrome Tab Manager Extension
+###Manage Your Chrome Browser Tabs
 
 
 This Chrome/Chromium extension allows you to manage your browser tabs.
