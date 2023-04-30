@@ -1,8 +1,8 @@
-<div align="center">
+
     
-    <h1>Chrome Tab Manager Extension</h1>
-    <h3>Manage Your Chrome Browser Tabs</h3>
-</div>
+    #Chrome Tab Manager Extension
+    ###Manage Your Chrome Browser Tabs
+
 
 This Chrome/Chromium extension allows you to manage your browser tabs.
 
